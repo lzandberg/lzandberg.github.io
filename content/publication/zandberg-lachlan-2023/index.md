@@ -1,5 +1,5 @@
 ---
-title: 'Preprint: SongBeam: an automated recorder using beamforming to make high-quality recordings'
+title: 'SongBeam: an automated recorder using beamforming to make high-quality recordings'
 authors:
 - Lies Zandberg
 - Robert Lachlan
