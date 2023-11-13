@@ -1,75 +1,82 @@
 ---
 # Display name
-title: 吳健雄
+title: Dr. Lies Zandberg
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Lies
+last_name: Zandberg
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Leverhulme Early Career fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Royal Holloway University of London
+    url: https://www.royalholloway.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include mate choice, cultural evolution, behavioural ecology and comparative psychology.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Behavioural Ecology
+  - Comparative Psychology
+  - Mate choice
+  - Cultural Evolution
+  - Bird song
+  - Bioacoustics
+  - Engineering for research purposes
+
+  
+  
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Behavioural Ecology
+      institution: Wageningen University
+      year: 2018
+    - course: MSc in Biology (Animal Sciences)
+      institution: Wageningen University
+      year: 2013
+    - course: BSc in Biology
+      institution: Wageningen University
+      year: 2011
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
+'skills:
   - name: Technical
     items:
-      - name: Python
+      - name: R
         description: ''
         percent: 80
-        icon: python
+        icon: R
         icon_pack: fab
-      - name: Data Science
+      - name: Java
         description: ''
         percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
+        icon: java
+        icon_pack: brands
+      - name: 'SQL'
+        'description: ''
         percent: 40
         icon: database
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
+    'color_border: '#f0bf23'
+    'items:
       - name: Hiking
         description: ''
         percent: 60
@@ -84,7 +91,7 @@ skills:
         description: ''
         percent: 80
         icon: camera-retro
-        icon_pack: fas
+        icon_pack: fas'
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -96,25 +103,25 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/zandberglies
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.nl/citations?user=Pvz0frkAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/lzandberg
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/lies-zandberg/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
