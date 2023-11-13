@@ -52,7 +52,7 @@ sections:
       columns: '1'
   - block: experience
     content:
-      title: Experience
+      title: Research Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -62,8 +62,8 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Leverhulme Early Career Fellow
+          company: Royal Holloway University of London
           company_url: ''
           company_logo: org-gc
           location: California

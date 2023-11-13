@@ -1,5 +1,5 @@
 ---
-title: Bird song comparison using deep learning trained from avian perceptual judgments
+title: Preprint: Bird song comparison using deep learning trained from avian perceptual judgments
 authors:
 - Lies Zandberg
 - Veronica Morfi
